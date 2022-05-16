@@ -1,0 +1,688 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Automation Report </title>
+</head>
+<body style="bgcolor:grey">
+<table align="center" bgcolor="#E0E0E0" border="2">
+<tr bgcolor="00CCFF">
+<th> Serial No</th><th>TestCase Description</th><th> Status</th><th> Comments </th><th> Time  </th><th> Bug Link for Failed Test Cases or Reason </th>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Admin Get Share Settings(JSON)</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">2.349</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585235] Create a File in "Home" under My Files 12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">1.036</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585236] Create a File in "Personal Storage" under My Files 12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.402</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585237] Create a File in "Shared With Me(Root)" createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.399</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585238] Create a File in "Shared With Me(Subfolder)" createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.379</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585239] Create a File in "Public" createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.387</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585240] Create a File in "Net Folder" 12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.314</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585241] Create a Folder in "Home" under My Files 12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.224</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585242] Create a Folder in "Personal Storage" under My Files 12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.23</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585244] Create a Folder in "Shared With Me(Subfolder)" createdFolder.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.196</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585246] Create a Folder in "Net Folder" 12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.162</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585320] Create the File With Short Name in "Home"(1.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.204</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585321] Create the File With Short Name in "Personal Storage"(1.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.291</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585323] Create the File With Short Name in "Shared With Me(Subfolder)"(a.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.446</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585324] Create the File With Short Name in "Public"(1.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.197</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585325] Create the File With Short Name in "Net Folder"(1.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.184</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585326] Create a Folder With Short Name in "Home"(h).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.171</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585327] Create a Folder With Short Name in "Personal Storage"(p).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.201</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585329] Create a Folder With Short Name in "Shared With Me(Subfolder)" (s).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.164</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585331] Create a Folder With Short Name in "Net Folder"(n).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.174</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585388] Create the File With Long Name in "Home"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.173</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585389] Create the File With Long Name in "Personal Storage"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.165</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585390] Create the File With Long Name in "Shared With Me(Root)"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile.txt)</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.14</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585391] Create the File With Long Name in "Shared With Me(Subfolder)"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.312</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585392] Create the File With Long Name in "Public"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.146</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585393] Create the File With Long Name in "Net Folder"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile.txt).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.172</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585394] Create a Folder With Long Name in "Home"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.159</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585395] Create a Folder With Long Name in "Personal Storage"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.178</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585397] Create a Folder With Long Name in "Shared With Me(Subfolder)"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.205</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585399] Create a Folder With Long Name in "Net Folder"(216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFile).</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.243</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585450] Create a File With Special Characters in "Home" under My Files 1234!@#$%^&amp;(L)+5678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.238</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585451] Create a File With Special Characters in "Personal Storage" under My Files !@#$%^&amp;(L)+12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.16</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585452] Create a File With Special Characters in "Shared With Me(Root)" !@#$%^&amp;(L)+createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.138</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585453] Create a File With Special Characters in "Shared With Me(Subfolder)" !@#$%^&amp;(L)+createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.151</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585454] Create a File With Special Characters in "Public" !@#$%^&amp;(L)+createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.267</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585455] Create a File With Special Characters in "Net Folder" !@#$%^&amp;(L)+12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.227</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585456] Create a Folder With Special Characters in "Home" under My Files !@#$%^&amp;(L)+12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.192</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585457] Create a Folder With Special Characters in "Personal Storage" under My Files !@#$%^&amp;(L)+12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.226</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585459] Create a Folder With Special Characters in "Shared With Me(Subfolder)" !@#$%^&amp;(L)+createdFolder.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.162</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585461] Create a Folder With Special Characters in "Net Folder" !@#$%^&amp;(L)+12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.179</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585495] Create a File in "Home" under My Files 12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.185</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585496] Create a File in "Personal Storage" under My Files 12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.148</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585498] Create a File in "Shared With Me(Subfolder)" createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.177</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585499] Create a File in "Public" createdFile.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.164</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585500] Create a File in "Net Folder" 12345678901.txt.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.236</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585501] Create a Folder in "Home" under My Files 12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.293</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585501] Create a Folder in "Personal Storage" under My Files 12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.213</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585504] Create a Folder in "Shared With Me(Subfolder)" createdFolder.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.226</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">[TC_ID=1585506] Create a Folder in "Net Folder" 12345678901E.</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.27</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Special Characters in Public e#$%.TXT [TC_ID=1585484]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.361</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the Folder With Special Characters in Public e#$% [TC_ID=1585490]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.424</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Short Name in Public e.TXT [TC_ID=1585354]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.243</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the Folder With Short Name in Public e [TC_ID=1585360]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.171</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the Folder With Long Name in Public 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrPublic [TC_ID=1585428]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.137</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Long Name in Public 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrPublic.TXT [TC_ID=1585422]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.152</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete a File in Public deleteFile.TXT [TC_ID=1585269]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.141</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the Folder With Short Name in Public RenameFolder [TC_ID=1585275]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.105</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Special Characters in Shared With Me(Root)  d#$%.TXT [TC_ID=1585482]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.326</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the Folder With Special Characters in Shared With Me(Root) d#$% [TC_ID=1585488]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.17</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the Folder With Short Name in Shared With Me(Root) d [TC_ID=1585358]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.108</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Short Name in Shared With Me(Root)  d.TXT [TC_ID=1585352]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.144</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Long Name in Shared With Me(Root)  d.TXT [TC_ID=1585420]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.146</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the Folder With Long Name in Shared With Me(Root) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMRootFolder [TC_ID=1585426]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.103</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete a Folder in Shared With Me(Root) deleteFolder [TC_ID=1585273]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.144</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete a File in Shared With Me(Root)  deleteFile.TXT [TC_ID=1585267]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.178</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Special Characters in Home under My Files b#$%.TXT [TC_ID=1585480]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.275</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Short Name in Home under My Files b.TXT [TC_ID=1585350]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.25</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Long Name in Home under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrHomeFolder.TXT [TC_ID=1585418]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.197</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete a File in Home under My Files deleteFile.TXT [TC_ID=1585265]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.231</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Special Characters in Personal Storage under My Files a#$%.TXT [TC_ID=1585481]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.191</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Short Name in Personal Storage under My FilesWith Short Names a.TXT [TC_ID=1585351]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.197</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Long Name in Personal Storage under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrMyFiles.TXT [TC_ID=1585419]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.253</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete a File in Personal Storage under My Files deleteFile.TXT [TC_ID=1585266]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.191</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Special Characters in Net Folders c#$%.TXT [TC_ID=1585485]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.269</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Short Name in Net Folders c.TXT [TC_ID=1585485]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.228</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Long Name in Net Folders 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrNetFolder.TXT [TC_ID=1585423]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.254</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Delete the File With Short Name in Net Folders deleteFile.TXT [TC_ID=1585270]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.263</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Special Characters in Personal Storage under My Files a#$%.txt [TC_ID=1585469]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.265</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Special Characters in Personal Storage under My Files[TC_ID=1585475]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.159</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a Folder in Personal Storage under My Files[TC_ID=1585260]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.164</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Personal Storage under My Files renameFile.txt [TC_ID=1579755]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.206</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename Folder in in Adhoc Storage [TC_ID=1579756]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.18</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Personal Storage under My Files RenamedFileByREST.txt [TC_ID=1585254]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.173</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Long Name in Personal Storage under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrMyFiles.txt [TC_ID=1585407]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.239</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Personal Storage under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrMyFiles [TC_ID=1585413]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.209</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Short Name in Personal Storage under My FilesWith Short Names [TC_ID=1585339]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.21</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Short Name in Personal Storage under My FilesWith Short Names a [TC_ID=1585345]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.118</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Home under My Files b#$% [TC_ID=1585474]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.153</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Home under My Files b#$%.txt [TC_ID=1585468]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.217</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Home under My Files b.txt [TC_ID=1585338]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.207</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Home under My Files b [TC_ID=1585344]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.148</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Home under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrHomeFolder.txt [TC_ID=1585406]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.194</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Home under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrHomeFolder [TC_ID=1585412]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.195</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a Folder in Home under My Files	renameFolder [TC_ID=1585259]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.181</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Home under My Files renameFile.txt [TC_ID=1585253]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.227</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Special Characters in Net Folders c#$%.txt [TC_ID=1585473]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.163</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Special Characters in Net Folder[TC_ID=1585479]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.118</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Short Name in Net Folder With Short Names C [TC_ID=1585349]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.132</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Short Name in Net Folders c.txt [TC_ID=1585343]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.226</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Long Name in Net Folders 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrNetFolder.txt [TC_ID=1585411]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.166</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Net Folder 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrNetFolder[TC_ID=1585417]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.136</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Net Folders renameFile.txt [TC_ID=1585258]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.195</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a Folder in Net Folders renameFolder [TC_ID=1585264]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.139</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Special Characters in Shared With Me(Root) d#$%.txt [TC_ID=1585470]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.218</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Special Characters in Shared With Me(Root) d#$% [TC_ID=1585476]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.146</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Short Name in Shared With Me(Root) d.txt [TC_ID=1585340]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.232</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Short Name in Shared With Me(Root) D [TC_ID=1585346]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.217</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Long Name in Shared With Me(Root)	 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMRootFolder.txt [TC_ID=1585408]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.189</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Shared With Me(Root)[TC_ID=1585414]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.154</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a Folder in Shared With Me(Root) SWMRootFolder1 [TC_ID=1585261]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.092</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Shared With Me(Root) SWMRoot4.txt [TC_ID=1585255]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.155</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Special Characters in Shared With Me(Subfolder) f#$%.txt [TC_ID=1585471]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.147</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Special Characters in Shared With Me(Subfolder) f#$% [TC_ID=1585477]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.125</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Short Name in Shared With Me(Subfolder) F [TC_ID=1585347]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.167</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Short Name in Shared With Me(Subfolder) f.txt [TC_ID=1585341]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.212</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Long Name in Shared With Me(Subfolder) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMSubFolder.txt [TC_ID=1585409]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.223</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Shared With Me(Subfolder) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMSubFolder [TC_ID=1585415]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.125</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a Folder in Shared With Me(Subfolder) renameFolder[TC_ID=1585262]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.119</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Long Name in Shared With Me(Subfolder) renameFile.txt [TC_ID=1585409]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.168</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a Folder in Public e#$% [TC_ID=1585478]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.106</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Special Characters in Public e#$%.txt [TC_ID=1585472]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.137</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Short Name in Public E [TC_ID=1585348]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.08</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Short Name in Public e.txt [TC_ID=1585342]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.131</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the Folder With Long Name in Public 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrPublic [TC_ID=1585416]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.142</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename the File With Long Name in Public 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrPublic.txt [TC_ID=1585410]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.432</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a Folder in Public  renameFolder [TC_ID=1585263]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.126</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Rename a File in Public renameFile.txt [TC_ID=1585257]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.206</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Short Name in Home under My Files b.TXT [TC_ID=1585362]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.235</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the Folder With Short Name in Home under My FilesWith Short Names b [TC_ID=1585368]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.184</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Long Name in Home under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrHomeFolder.TXT [TC_ID=1585430]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.198</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the Folder With Long Name in Home under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrHomeFolder [TC_ID=1585436]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.258</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a File in Home under My Files copyHomeFile1.TXT [TC_ID=1585277]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.352</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Home under My Files copyHomeFolder1 [TC_ID=1585283]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.24</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy a File from Home to My Files copyHomeFile1.TXT [TC_ID=1585299]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.249</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy a Folder from Home to My Files copyHomeFolder1 [TC_ID=1585305]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.172</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Short Name in Personal Storage under My FilesWith Short Names a.TXT [TC_ID=1585363]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.204</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the Folder With Short Name in Personal Storage under My FilesWith Short Names a [TC_ID=1585369]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.199</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Long Name in Personal Storage under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrMyFiles.TXT [TC_ID=1585431]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.272</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Personal Storage under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrMyFiles [TC_ID=1585437]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.151</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a File in Personal Storage under My Files copyPersonalFile1.TXT [TC_ID=1585278]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.232</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Personal Storage under My Files copyPersonalFolder1 [TC_ID=1585284]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.171</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Adhoc to Netfolders) a File in Personal Storage under My Files copyPersonalFile2.TXT [TC_ID=1585300]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.203</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Adhoc to Netfolders) a Folder in Personal Storage under My Files copyPersonalFolder2 [TC_ID=1585306]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.178</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Short Name in Net Folders c.TXT [TC_ID=1585367]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.229</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Net Folders C [TC_ID=1585373]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.143</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Long Name in Net Folders 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrNetFolder.TXT [TC_ID=1585435]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.212</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Net Folders 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrNetFolder [TC_ID=1585373]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.163</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a File in Net Folders copyNetFile1.TXT [TC_ID=1585282]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.219</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Net Folders copyNetFolder1 [TC_ID=1585288]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.153</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">COPY FILE NetFolders to Personal Storage copyNetFile2.TXT [TC_ID=1585304]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.23</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">COPY FOLDER NetFolders to Personal Storage  copyNetFolder2 [TC_ID=1585310]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.185</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">COPY FOLDER NetFolders to Home Folder copyNetFolder2 [TC_ID=1585310]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.205</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Short Name in Public e.TXT [TC_ID=1585366]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.202</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the Folder With Short Name in Public e [TC_ID=1585372]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.15</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">COPY FOLDER Public to Netfolders  publicCopyFolder [TC_ID=1585309]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.209</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">COPY FOLDER Public to MyFiles publicCopyFolder [TC_ID=1585309]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.224</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">COPY FOLDER Public to Home Folder publicCopyFolder [TC_ID=1585309]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.268</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Long Name in Public 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrPublic.TXT [TC_ID=1585434]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.168</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the Folder With Long Name in Public 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrPublic [TC_ID=1585440]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.139</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a File in Public publicCopyFile.TXT [TC_ID=1585281]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.206</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Public publicCopyFolder [TC_ID=1585287]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.145</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Short Name in Shared With Me(Root) d.TXT [TC_ID=1585364]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.26</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Long Name in Shared With Me(Root) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMRootFolder.TXT [TC_ID=1585432]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.304</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Shared With Me to Netfolders a File in Shared With Me(Root) SWMRoot1.TXT [TC_ID=1585301]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.217</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Shared With Me to Netfolders) a Folder in Shared With Me(Root) SWMRootFolder1 [TC_ID=1585307]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.221</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Short Name in Shared With Me(Subfolder) f.TXT [TC_ID=1585365]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.214</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) the File With Short Name in Shared With Me(Subfolder) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMSubFolder.TXT [TC_ID=1585433]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.228</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Shared With Me to Netfolders) a File in Shared With Me(Subfolder) copySWMSubFile2.TXT [TC_ID=1585302]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.2</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Shared With Me to Netfolders) a Folder in Shared With Me(Subfolder) copySWMSubFolder1 [TC_ID=1585308]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.179</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Copy(Within same location) a Folder in Shared With Me(Subfolder) copySWMSubFolder2 [TC_ID=1585286]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.218</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Short Name in Home under My Files With Short Names b [TC_ID=1585380]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.217</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Long Name in Home under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrHomeFolder [TC_ID=1585446]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.219</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Short Name in Home under My Files With Short Names moveHomeFolder1 [TC_ID=1585380]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.174</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Short Name in Home under My Files With Short Names moveHomeFolder2 [TC_ID=1585380]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.211</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the File With Short Name in Home under My Files b.TXT [TC_ID=1585374]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.445</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the File With Long Name in Home under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrHomeFolder.TXT [TC_ID=1585442]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.366</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a File in Home under My Files moveHomeFile1.TXT [TC_ID=1585289]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.238</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a File in Home under My Files moveHomeFile2.TXT [TC_ID=1585311]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.238</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Personal Storage under My Files movePersonalFolder1 [TC_ID=1585295]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.175</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Personal Storage under My Files a [TC_ID=1585381]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.157</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Long Name in Personal Storage under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrMyFiles [TC_ID=1585447]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.154</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">(Ut_ID-1238) Move(Adhoc to Home Folder) a Folder in Personal Storage under My Files movePersonalFolder2 [TC_ID=1585315]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.185</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a File in Personal Storage under My Files movePersonalFile1.TXT [TC_ID=1585290]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.226</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the File With Short Name in Personal Storage under My FilesWith Short Names a.TXT [TC_ID=1585375]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.184</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Adhoc to Home Folder) a File in Personal Storage under My Files movePersonalFile2.TXT [TC_ID=1585312]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.284</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the File With Long Name in Personal Storage under My Files 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrMyFiles.TXT [TC_ID=1585443]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.195</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the File With Short Name in Public e.txt [TC_ID=1585378]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.212</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Short Name in Public e [TC_ID=1585384]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.139</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Shared With Me(Root) moveRootFolder [TC_ID=1585296]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.135</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Short Name in Shared With Me(Root) d [TC_ID=1585382]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.158</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Long Name in Shared With Me(Root) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMRootFolder [TC_ID=1585448]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.163</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move Folder Shared With Me to NetFolders moveSWMSubFolder1 [TC_ID=1585316]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.226</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move Folder Shared With MyFiles moveSWMSubFolder2 [TC_ID=1585316]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.18</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move Folder Shared With Home Folder moveSWMSubFolder3 [TC_ID=1585316]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.209</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Shared With Me(Subfolder) moveSWMSubFolder4 [TC_ID=1585297]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.207</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Long Name in Shared With Me(Subfolder) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMSubFolder [TC_ID=1585449]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.17</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Shared With Me(Subfolder) f [TC_ID=1585383]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.117</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move File Shared With Me to NetFolders moveSWMSubFile1.txt [TC_ID=1585313]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.34</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move File Shared With Me to MyFiles moveSWMSubFile2.txt [TC_ID=1585313]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.238</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move File Shared With Me to Home Folder moveSWMSubFile3.txt [TC_ID=1585313]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.214</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">(Ut_ID-1404) Move(Within same location) a File in Shared With Me(Subfolder) moveSWMSubFile4.txt [TC_ID=1585292]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.238</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">(Ut_ID-1404) Move(Within same location) a File in Shared With Me(Subfolder) F.txt [TC_ID=1585292]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.246</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a File in Shared With Me(Subfolder) 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrSWMSubFolder.txt [TC_ID=1585445]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.231</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the Folder With Long Name in Net Folder With Long Names 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrNetFolder [TC_ID=]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.264</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Net Folders c [TC_ID=1585385]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.247</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Net Folders moveNetFolder1 [TC_ID=1585298]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.216</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a Folder in Net Folders to Home Folder moveNetFolder3 [TC_ID=]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.249</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the File With Long Name in Net Folders 216characterlong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrTestWIhtLongNameFilelong123123filrNetFolder.TXT [TC_ID=]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.218</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) the File With short Name in Net Folders c.TXT [TC_ID=1585379]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.222</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move(Within same location) a File in Net Folders moveNetFile1.TXT [TC_ID=1585293]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.258</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move NetFolders to Personal Storage moveNetFile2.TXT [TC_ID=1585314]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.261</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Move NetFolders to Home Folder moveNetFile3.TXT  [TC_ID=1585314]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.266</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a file with user having Editor rights to another user with Viewer rights (Net Folder) [TC_ID=1585749]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.383</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a file with user having Editor rights to another user with Editor rights (Net Folder) [TC_ID=1585750]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.259</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a file with user having Editor rights to another user with Contribuotr rights (Net Folder) [TC_ID=1585751]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.256</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a folder with user having Editor rights to another user with Viewer rights (Net Folder) [TC_ID=1585759]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.304</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a folder with user having Editor rights to another user with Editor rights (Net Folder) [TC_ID=1585760]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.293</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a file to another user with Viewer rights (Home folder) [TC_ID=1585752]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.287</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a file to another user with Editor rights (Home folder) [TC_ID=1585753]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.25</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a folder to another user with Viewer rights (Home folder) [TC_ID=1585762]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.232</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a folder to another user with Editor rights (Home folder) [TC_ID=1585763]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.26</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a file to another user with Viewer rights (Adhoc storage) [TC_ID=1585754]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.24</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a file to another user with Editor rights (Adhoc storage) [TC_ID=1585755]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.295</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a folder to another user with Viewer rights (Adhoc storage) [TC_ID=1585764]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.247</td><td border="2"></td>
+</tr>
+<tr>
+<td style="color:green" width="1%" contenteditable="true" align="center"></td><td style="color:green">Share a folder to another user with Editor rights (Adhoc storage) [TC_ID=1585765]</td><td style="color:green">PASS</td><td style="color:green">SUCCESFULL!!</td><td style="color:green">0.231</td><td border="2"></td>
+</tr>
+</table>
+</body>
+</html>
